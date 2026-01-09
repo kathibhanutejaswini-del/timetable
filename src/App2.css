@@ -1,0 +1,42 @@
+
+body {
+  background-color:black;   
+  color: whitesmoke;              
+  font-family: Arial, sans-serif;
+}
+
+
+h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+
+table {
+  width: 95%;
+  margin: auto;
+  border-collapse: collapse;   
+}
+
+
+th {
+  background-color:blue;   
+  color:whitesmoke;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+
+td {
+  background-color:darkred;   
+  color:white;
+  padding: 10px;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+
+td:first-child {
+  background-color: ;
+  font-weight: bold;
+}

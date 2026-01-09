@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kathibhanutejaswini.github.io/projecct3",
+  "homepage": "https://kathibhanutejaswini.github.io/timetable",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
